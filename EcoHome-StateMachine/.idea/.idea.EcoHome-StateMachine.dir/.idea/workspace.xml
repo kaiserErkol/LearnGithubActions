@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e43efae-1e93-42ee-8265-6cc2fab0798f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EcoHome-StateMachine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EcoHome-StateMachine/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EcoHome-StateMachine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EcoHome-StateMachine/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine/.idea/.idea.EcoHome-StateMachine.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine/.idea/.idea.EcoHome-StateMachine.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EcoHome-StateMachine/.idea/.idea.EcoHome-StateMachine.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine/EcoHome-StateMachine.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoHome-StateMachine/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/State Machine.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateMachine_V2.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/obj/Debug/TestProject2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject2/obj/Debug/TestProject2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/obj/Debug/TestProject2.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/obj/Debug/TestProject2.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject2/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.2.1.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.2.1.0/xunit.2.1.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/xunit.abstractions.2.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/xunit.assert.2.1.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/_desktop/xunit.execution.desktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/dnx451/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monoandroid/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monotouch/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/net45/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/portable-net45+win8+wp8+wpa81/xunit.core.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win8/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win81/xunit.core.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wp8/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wpa81/xunit.core.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/xamarinios/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/xunit.core.2.1.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll.tdnet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.tdnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.utility.desktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll.tdnet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.tdnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.utility.desktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/xunit.extensibility.core.2.1.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/xunit.extensibility.execution.2.1.0.nupkg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gGbN3e2jRA9llKa8eYIAPqlWPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/macbook/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/Users/macbook/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/Users/macbook/Library/Application Support/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e43efae-1e93-42ee-8265-6cc2fab0798f" name="Changes" comment="" />
+      <created>1715326817416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715326817416</updated>
+      <workItem from="1715326818484" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
